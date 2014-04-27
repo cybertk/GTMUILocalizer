@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  GTMUILocalizer Demo
+
+  Created by Quanlong He on 4/27/14.
+  Copyright (c) 2014 Quanlong He. All rights reserved.
+*/
+
+"GTMDEMO_VIEWA_TITLE" = "视图A";
+"GTMDEMO_VIEWA_BACK_BTN" = "A";
+"GTMDEMO_VIEWA_LABEL" = "Storyboard国际化";
+"GTMDEMO_VIEWA_BTN" = "跳到视图B";
+
+"GTMDEMO_VIEWB_TITLE" = "视图B";
+"GTMDEMO_VIEWB_LABEL" = "不支持NavigationBar";

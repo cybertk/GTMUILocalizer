@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  GTMUILocalizer Demo
+
+  Created by Quanlong He on 4/27/14.
+  Copyright (c) 2014 Quanlong He. All rights reserved.
+*/
+
+"GTMDEMO_VIEWA_TITLE" = "View A";
+"GTMDEMO_VIEWA_BACK_BTN" = "A";
+"GTMDEMO_VIEWA_LABEL" = "Localized in Storyboard";
+"GTMDEMO_VIEWA_BTN" = "Jump to another view";
+
+"GTMDEMO_VIEWB_TITLE" = "View B";
+"GTMDEMO_VIEWB_LABEL" = "Navigation Bar is not support";

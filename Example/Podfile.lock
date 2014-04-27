@@ -1,0 +1,14 @@
+PODS:
+  - GTMUILocalizer (0.0.1)
+
+DEPENDENCIES:
+  - GTMUILocalizer (from `../`)
+
+EXTERNAL SOURCES:
+  GTMUILocalizer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GTMUILocalizer: 2503cbc7cb43e5bdfdb7a92548d876e44d6c94e8
+
+COCOAPODS: 0.32.1
